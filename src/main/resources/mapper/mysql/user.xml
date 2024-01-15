@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper
+	namespace="net.lunalabs.central.mapper.mysql.UserMapper">
+	
+	<insert id="save">
+		INSERT INTO marketdb.market_user
+		(seq, user_id, password, user_name, provider, sex, age, area, 
+		memo, `level`, `point`, phone, img, email, si, gu, dong, sms_auth, 
+		sms_auth_date, reg_date, reg_user, mod_date, mod_user, `role`, last_login, logout_date)
+		VALUES
+		(1, #{userId}, #{password}, #{userName}, #{provider}, #{sex}, #{age}, #{area}, 
+		#{memo}, 1 , 3000 ,#{phone} , 'sample.png', #{email}, #{si}, #{gu}, #{dong}, 'N',
+		now(), '20240115' , 'admin', '20240115', 'admin', 'designer', now(), now());
+	</insert>
+
+	<delete id="deleteById">
+		DELETE FROM marketdb.market_user WHERE user_id = #{userId}
+	</delete>
+
+	<update id="update">
+		UPDATE marketdb.market_user SET name=#{name}, code=#{code} WHERE
+		id = #{id}
+	</update>
+	
+	
+	<select id="findAll"
+		resultType="net.lunalabs.central.domain.mysql.User">
+		<![CDATA[
+		select * from marketdb.market_user order by seq desc 
+		]]>
+	</select>
+
+
+
+	<select id="findById"
+		resultType="net.lunalabs.central.domain.mysql.User">
+		<![CDATA[
+		select * from marketdb.market_user where user_id=#{userId} 
+		]]>
+	</select>
+	
+
+	
+
+
+</mapper>

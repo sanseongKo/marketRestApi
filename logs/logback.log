@@ -1,0 +1,97 @@
+[2024-01-15 20:59:06:774][restartedMain] INFO n.l.central.CentralApplication - Starting CentralApplication using Java 11.0.13 on DESKTOP-CKMLLLB with PID 5520 (C:\utils\eclipse\eclipse-workspace\Springboot-MultiDatasource-Mybatis-dev3\target\classes started by kyj19 in C:\utils\eclipse\eclipse-workspace\Springboot-MultiDatasource-Mybatis-dev3)
+[2024-01-15 20:59:06:781][restartedMain] INFO n.l.central.CentralApplication - The following profiles are active: dev
+[2024-01-15 20:59:47:1306][main] INFO n.l.central.CentralApplicationTests - Starting CentralApplicationTests using Java 11.0.13 on DESKTOP-CKMLLLB with PID 11184 (started by kyj19 in C:\utils\eclipse\eclipse-workspace\Springboot-MultiDatasource-Mybatis-dev3)
+[2024-01-15 20:59:47:1308][main] INFO n.l.central.CentralApplicationTests - The following profiles are active: dev
+[2024-01-15 21:01:30:709][restartedMain] INFO n.l.central.CentralApplication - Starting CentralApplication using Java 11.0.13 on DESKTOP-CKMLLLB with PID 12856 (C:\utils\eclipse\eclipse-workspace\Springboot-MultiDatasource-Mybatis-dev3\target\classes started by kyj19 in C:\utils\eclipse\eclipse-workspace\Springboot-MultiDatasource-Mybatis-dev3)
+[2024-01-15 21:01:30:712][restartedMain] INFO n.l.central.CentralApplication - The following profiles are active: dev
+[2024-01-15 21:03:30:729][restartedMain] INFO n.l.central.CentralApplication - Starting CentralApplication using Java 11.0.13 on DESKTOP-CKMLLLB with PID 16032 (C:\utils\eclipse\eclipse-workspace\Springboot-MultiDatasource-Mybatis-dev3\target\classes started by kyj19 in C:\utils\eclipse\eclipse-workspace\Springboot-MultiDatasource-Mybatis-dev3)
+[2024-01-15 21:03:30:730][restartedMain] INFO n.l.central.CentralApplication - The following profiles are active: dev
+[2024-01-15 21:03:31:2049][restartedMain] INFO n.l.central.config.db.MysqlConfig - yml 설정으로 Mysql Datasource set
+[2024-01-15 21:03:32:2726][restartedMain] INFO n.l.central.CentralApplication - Started CentralApplication in 2.507 seconds (JVM running for 3.502)
+[2024-01-15 21:04:50:81612][restartedMain] INFO n.l.central.CentralApplication - Starting CentralApplication using Java 11.0.13 on DESKTOP-CKMLLLB with PID 16032 (C:\utils\eclipse\eclipse-workspace\Springboot-MultiDatasource-Mybatis-dev3\target\classes started by kyj19 in C:\utils\eclipse\eclipse-workspace\Springboot-MultiDatasource-Mybatis-dev3)
+[2024-01-15 21:04:50:81613][restartedMain] INFO n.l.central.CentralApplication - The following profiles are active: dev
+[2024-01-15 21:04:51:81933][restartedMain] INFO n.l.central.config.db.MysqlConfig - yml 설정으로 Mysql Datasource set
+[2024-01-15 21:04:51:82082][restartedMain] INFO n.l.central.CentralApplication - Started CentralApplication in 0.519 seconds (JVM running for 82.858)
+[2024-01-15 21:05:08:99474][restartedMain] INFO n.l.central.CentralApplication - Starting CentralApplication using Java 11.0.13 on DESKTOP-CKMLLLB with PID 16032 (C:\utils\eclipse\eclipse-workspace\Springboot-MultiDatasource-Mybatis-dev3\target\classes started by kyj19 in C:\utils\eclipse\eclipse-workspace\Springboot-MultiDatasource-Mybatis-dev3)
+[2024-01-15 21:05:08:99474][restartedMain] INFO n.l.central.CentralApplication - The following profiles are active: dev
+[2024-01-15 21:05:09:99784][restartedMain] INFO n.l.central.config.db.MysqlConfig - yml 설정으로 Mysql Datasource set
+[2024-01-15 21:05:09:99934][restartedMain] INFO n.l.central.CentralApplication - Started CentralApplication in 0.498 seconds (JVM running for 100.71)
+[2024-01-15 21:05:27:118296][restartedMain] INFO n.l.central.CentralApplication - Starting CentralApplication using Java 11.0.13 on DESKTOP-CKMLLLB with PID 16032 (C:\utils\eclipse\eclipse-workspace\Springboot-MultiDatasource-Mybatis-dev3\target\classes started by kyj19 in C:\utils\eclipse\eclipse-workspace\Springboot-MultiDatasource-Mybatis-dev3)
+[2024-01-15 21:05:27:118296][restartedMain] INFO n.l.central.CentralApplication - The following profiles are active: dev
+[2024-01-15 21:05:27:118603][restartedMain] INFO n.l.central.config.db.MysqlConfig - yml 설정으로 Mysql Datasource set
+[2024-01-15 21:05:28:118771][restartedMain] INFO n.l.central.CentralApplication - Started CentralApplication in 0.513 seconds (JVM running for 119.546)
+[2024-01-15 21:05:38:128874][restartedMain] INFO n.l.central.CentralApplication - Starting CentralApplication using Java 11.0.13 on DESKTOP-CKMLLLB with PID 16032 (C:\utils\eclipse\eclipse-workspace\Springboot-MultiDatasource-Mybatis-dev3\target\classes started by kyj19 in C:\utils\eclipse\eclipse-workspace\Springboot-MultiDatasource-Mybatis-dev3)
+[2024-01-15 21:05:38:128875][restartedMain] INFO n.l.central.CentralApplication - The following profiles are active: dev
+[2024-01-15 21:05:38:129145][restartedMain] INFO n.l.central.config.db.MysqlConfig - yml 설정으로 Mysql Datasource set
+[2024-01-15 21:05:38:129280][restartedMain] INFO n.l.central.CentralApplication - Started CentralApplication in 0.44 seconds (JVM running for 130.056)
+[2024-01-15 21:05:58:735][restartedMain] INFO n.l.central.CentralApplication - Starting CentralApplication using Java 11.0.13 on DESKTOP-CKMLLLB with PID 16028 (C:\utils\eclipse\eclipse-workspace\Springboot-MultiDatasource-Mybatis-dev3\target\classes started by kyj19 in C:\utils\eclipse\eclipse-workspace\Springboot-MultiDatasource-Mybatis-dev3)
+[2024-01-15 21:05:58:736][restartedMain] INFO n.l.central.CentralApplication - The following profiles are active: dev
+[2024-01-15 21:05:59:2017][restartedMain] INFO n.l.central.config.db.MysqlConfig - yml 설정으로 Mysql Datasource set
+[2024-01-15 21:06:00:2679][restartedMain] INFO n.l.central.CentralApplication - Started CentralApplication in 2.464 seconds (JVM running for 3.359)
+[2024-01-15 21:07:14:76931][http-nio-8088-exec-3] INFO n.l.central.web.ProductController - 리스트 뿌리기
+[2024-01-15 21:10:38:280837][http-nio-8088-exec-5] INFO n.l.central.web.ProductController - 리스트 뿌리기
+[2024-01-15 21:10:41:284427][http-nio-8088-exec-6] INFO n.l.central.web.ProductController - 리스트 뿌리기
+[2024-01-15 21:13:19:766][restartedMain] INFO n.l.central.CentralApplication - Starting CentralApplication using Java 11.0.13 on DESKTOP-CKMLLLB with PID 6524 (C:\utils\eclipse\eclipse-workspace\Springboot-MultiDatasource-Mybatis-dev3\target\classes started by kyj19 in C:\utils\eclipse\eclipse-workspace\Springboot-MultiDatasource-Mybatis-dev3)
+[2024-01-15 21:13:19:767][restartedMain] INFO n.l.central.CentralApplication - The following profiles are active: dev
+[2024-01-15 21:13:20:2043][restartedMain] INFO n.l.central.config.db.MysqlConfig - yml 설정으로 Mysql Datasource set
+[2024-01-15 21:13:21:2628][restartedMain] INFO n.l.central.CentralApplication - Started CentralApplication in 2.404 seconds (JVM running for 3.365)
+[2024-01-15 21:13:33:14591][http-nio-8088-exec-1] INFO n.l.central.web.ProductController - 리스트 뿌리기
+[2024-01-15 21:17:36:258152][restartedMain] INFO n.l.central.CentralApplication - Starting CentralApplication using Java 11.0.13 on DESKTOP-CKMLLLB with PID 6524 (C:\utils\eclipse\eclipse-workspace\Springboot-MultiDatasource-Mybatis-dev3\target\classes started by kyj19 in C:\utils\eclipse\eclipse-workspace\Springboot-MultiDatasource-Mybatis-dev3)
+[2024-01-15 21:17:36:258152][restartedMain] INFO n.l.central.CentralApplication - The following profiles are active: dev
+[2024-01-15 21:17:37:258531][restartedMain] INFO n.l.central.config.db.MysqlConfig - yml 설정으로 Mysql Datasource set
+[2024-01-15 21:17:37:258676][restartedMain] INFO n.l.central.CentralApplication - Started CentralApplication in 0.57 seconds (JVM running for 259.414)
+[2024-01-15 21:17:47:268812][http-nio-8088-exec-1] INFO n.l.central.web.ProductController - 리스트 뿌리기
+[2024-01-15 21:25:26:1043][restartedMain] INFO n.l.central.CentralApplication - Starting CentralApplication using Java 11.0.13 on DESKTOP-CKMLLLB with PID 7220 (C:\utils\eclipse\eclipse-workspace\markekRestApi\target\classes started by kyj19 in C:\utils\eclipse\eclipse-workspace\markekRestApi)
+[2024-01-15 21:25:26:1049][restartedMain] INFO n.l.central.CentralApplication - The following profiles are active: dev
+[2024-01-15 21:25:28:2562][restartedMain] INFO n.l.central.config.db.MysqlConfig - yml 설정으로 Mysql Datasource set
+[2024-01-15 21:25:28:3178][restartedMain] INFO n.l.central.CentralApplication - Started CentralApplication in 2.826 seconds (JVM running for 4.195)
+[2024-01-15 21:25:55:30055][http-nio-8088-exec-1] INFO n.l.central.web.ProductController - 리스트 뿌리기
+[2024-01-15 21:26:39:74024][restartedMain] INFO n.l.central.CentralApplication - Starting CentralApplication using Java 11.0.13 on DESKTOP-CKMLLLB with PID 7220 (C:\utils\eclipse\eclipse-workspace\markekRestApi\target\classes started by kyj19 in C:\utils\eclipse\eclipse-workspace\markekRestApi)
+[2024-01-15 21:26:39:74025][restartedMain] INFO n.l.central.CentralApplication - The following profiles are active: dev
+[2024-01-15 21:26:39:74357][restartedMain] INFO n.l.central.config.db.MysqlConfig - yml 설정으로 Mysql Datasource set
+[2024-01-15 21:26:40:74512][restartedMain] INFO n.l.central.CentralApplication - Started CentralApplication in 0.54 seconds (JVM running for 75.529)
+[2024-01-15 22:17:58:758][restartedMain] INFO n.l.central.CentralApplication - Starting CentralApplication using Java 11.0.13 on DESKTOP-CKMLLLB with PID 1920 (C:\utils\eclipse\eclipse-workspace\markekRestApi\target\classes started by kyj19 in C:\utils\eclipse\eclipse-workspace\markekRestApi)
+[2024-01-15 22:17:58:761][restartedMain] INFO n.l.central.CentralApplication - The following profiles are active: dev
+[2024-01-15 22:17:59:2091][restartedMain] INFO n.l.central.config.db.MysqlConfig - yml 설정으로 Mysql Datasource set
+[2024-01-15 22:18:00:2845][restartedMain] INFO n.l.central.CentralApplication - Started CentralApplication in 2.621 seconds (JVM running for 3.573)
+[2024-01-15 22:19:35:97427][restartedMain] INFO n.l.central.CentralApplication - Starting CentralApplication using Java 11.0.13 on DESKTOP-CKMLLLB with PID 1920 (C:\utils\eclipse\eclipse-workspace\markekRestApi\target\classes started by kyj19 in C:\utils\eclipse\eclipse-workspace\markekRestApi)
+[2024-01-15 22:19:35:97427][restartedMain] INFO n.l.central.CentralApplication - The following profiles are active: dev
+[2024-01-15 22:19:35:97819][restartedMain] INFO n.l.central.config.db.MysqlConfig - yml 설정으로 Mysql Datasource set
+[2024-01-15 22:19:35:98002][restartedMain] INFO n.l.central.CentralApplication - Started CentralApplication in 0.635 seconds (JVM running for 98.73)
+[2024-01-15 22:19:53:115416][restartedMain] INFO n.l.central.CentralApplication - Starting CentralApplication using Java 11.0.13 on DESKTOP-CKMLLLB with PID 1920 (C:\utils\eclipse\eclipse-workspace\markekRestApi\target\classes started by kyj19 in C:\utils\eclipse\eclipse-workspace\markekRestApi)
+[2024-01-15 22:19:53:115416][restartedMain] INFO n.l.central.CentralApplication - The following profiles are active: dev
+[2024-01-15 22:19:53:115771][restartedMain] INFO n.l.central.config.db.MysqlConfig - yml 설정으로 Mysql Datasource set
+[2024-01-15 22:19:53:115974][restartedMain] INFO n.l.central.CentralApplication - Started CentralApplication in 0.598 seconds (JVM running for 116.702)
+[2024-01-15 22:20:07:129261][restartedMain] INFO n.l.central.CentralApplication - Starting CentralApplication using Java 11.0.13 on DESKTOP-CKMLLLB with PID 1920 (C:\utils\eclipse\eclipse-workspace\markekRestApi\target\classes started by kyj19 in C:\utils\eclipse\eclipse-workspace\markekRestApi)
+[2024-01-15 22:20:07:129261][restartedMain] INFO n.l.central.CentralApplication - The following profiles are active: dev
+[2024-01-15 22:20:07:129592][restartedMain] INFO n.l.central.config.db.MysqlConfig - yml 설정으로 Mysql Datasource set
+[2024-01-15 22:20:07:129736][restartedMain] INFO n.l.central.CentralApplication - Started CentralApplication in 0.537 seconds (JVM running for 130.464)
+[2024-01-15 22:20:50:172209][restartedMain] INFO n.l.central.CentralApplication - Starting CentralApplication using Java 11.0.13 on DESKTOP-CKMLLLB with PID 1920 (C:\utils\eclipse\eclipse-workspace\markekRestApi\target\classes started by kyj19 in C:\utils\eclipse\eclipse-workspace\markekRestApi)
+[2024-01-15 22:20:50:172210][restartedMain] INFO n.l.central.CentralApplication - The following profiles are active: dev
+[2024-01-15 22:20:50:172536][restartedMain] INFO n.l.central.config.db.MysqlConfig - yml 설정으로 Mysql Datasource set
+[2024-01-15 22:20:50:172671][restartedMain] INFO n.l.central.CentralApplication - Started CentralApplication in 0.506 seconds (JVM running for 173.399)
+[2024-01-15 22:21:17:199478][restartedMain] INFO n.l.central.CentralApplication - Starting CentralApplication using Java 11.0.13 on DESKTOP-CKMLLLB with PID 1920 (C:\utils\eclipse\eclipse-workspace\markekRestApi\target\classes started by kyj19 in C:\utils\eclipse\eclipse-workspace\markekRestApi)
+[2024-01-15 22:21:17:199479][restartedMain] INFO n.l.central.CentralApplication - The following profiles are active: dev
+[2024-01-15 22:21:17:199780][restartedMain] INFO n.l.central.config.db.MysqlConfig - yml 설정으로 Mysql Datasource set
+[2024-01-15 22:21:17:199917][restartedMain] INFO n.l.central.CentralApplication - Started CentralApplication in 0.475 seconds (JVM running for 200.645)
+[2024-01-15 22:21:33:215296][restartedMain] INFO n.l.central.CentralApplication - Starting CentralApplication using Java 11.0.13 on DESKTOP-CKMLLLB with PID 1920 (C:\utils\eclipse\eclipse-workspace\markekRestApi\target\classes started by kyj19 in C:\utils\eclipse\eclipse-workspace\markekRestApi)
+[2024-01-15 22:21:33:215297][restartedMain] INFO n.l.central.CentralApplication - The following profiles are active: dev
+[2024-01-15 22:21:33:215581][restartedMain] INFO n.l.central.config.db.MysqlConfig - yml 설정으로 Mysql Datasource set
+[2024-01-15 22:21:33:215710][restartedMain] INFO n.l.central.CentralApplication - Started CentralApplication in 0.448 seconds (JVM running for 216.438)
+[2024-01-15 22:22:15:257162][restartedMain] INFO n.l.central.CentralApplication - Starting CentralApplication using Java 11.0.13 on DESKTOP-CKMLLLB with PID 1920 (C:\utils\eclipse\eclipse-workspace\markekRestApi\target\classes started by kyj19 in C:\utils\eclipse\eclipse-workspace\markekRestApi)
+[2024-01-15 22:22:15:257162][restartedMain] INFO n.l.central.CentralApplication - The following profiles are active: dev
+[2024-01-15 22:22:15:257496][restartedMain] INFO n.l.central.config.db.MysqlConfig - yml 설정으로 Mysql Datasource set
+[2024-01-15 22:22:15:257645][restartedMain] INFO n.l.central.CentralApplication - Started CentralApplication in 0.52 seconds (JVM running for 258.373)
+[2024-01-15 22:22:38:280267][restartedMain] INFO n.l.central.CentralApplication - Starting CentralApplication using Java 11.0.13 on DESKTOP-CKMLLLB with PID 1920 (C:\utils\eclipse\eclipse-workspace\markekRestApi\target\classes started by kyj19 in C:\utils\eclipse\eclipse-workspace\markekRestApi)
+[2024-01-15 22:22:38:280268][restartedMain] INFO n.l.central.CentralApplication - The following profiles are active: dev
+[2024-01-15 22:22:38:280589][restartedMain] INFO n.l.central.config.db.MysqlConfig - yml 설정으로 Mysql Datasource set
+[2024-01-15 22:22:38:280714][restartedMain] INFO n.l.central.CentralApplication - Started CentralApplication in 0.486 seconds (JVM running for 281.443)
+[2024-01-15 22:23:30:332685][restartedMain] INFO n.l.central.CentralApplication - Starting CentralApplication using Java 11.0.13 on DESKTOP-CKMLLLB with PID 1920 (C:\utils\eclipse\eclipse-workspace\markekRestApi\target\classes started by kyj19 in C:\utils\eclipse\eclipse-workspace\markekRestApi)
+[2024-01-15 22:23:30:332685][restartedMain] INFO n.l.central.CentralApplication - The following profiles are active: dev
+[2024-01-15 22:23:30:333030][restartedMain] INFO n.l.central.config.db.MysqlConfig - yml 설정으로 Mysql Datasource set
+[2024-01-15 22:23:31:333157][restartedMain] INFO n.l.central.CentralApplication - Started CentralApplication in 0.516 seconds (JVM running for 333.886)
+[2024-01-15 22:23:40:342256][restartedMain] INFO n.l.central.CentralApplication - Starting CentralApplication using Java 11.0.13 on DESKTOP-CKMLLLB with PID 1920 (C:\utils\eclipse\eclipse-workspace\markekRestApi\target\classes started by kyj19 in C:\utils\eclipse\eclipse-workspace\markekRestApi)
+[2024-01-15 22:23:40:342256][restartedMain] INFO n.l.central.CentralApplication - The following profiles are active: dev
+[2024-01-15 22:23:40:342531][restartedMain] INFO n.l.central.config.db.MysqlConfig - yml 설정으로 Mysql Datasource set
+[2024-01-15 22:23:40:342684][restartedMain] INFO n.l.central.CentralApplication - Started CentralApplication in 0.462 seconds (JVM running for 343.413)
+[2024-01-15 22:24:03:365483][http-nio-8088-exec-1] INFO n.l.central.web.UserController - 리스트 뿌리기
